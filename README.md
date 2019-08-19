@@ -55,7 +55,7 @@
     <div class="car1"></div>
     <br>
     <div class="car2"></div>
-    <script src="script.js"></script>
+    <script src="app.js"></script>
 </body>
 </html>
 ```
